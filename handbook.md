@@ -99,25 +99,18 @@ Reviewers often lack the full project context, esxpacially for UI/UX changes. He
 - [SmartBear: Best Practices for Peer Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - Real-world dev experience
 
-## 📊 Pull Request Workflow Diagram
+### 📊 Pull Request Workflow Diagram
+
+Here's a simple flowchart to visualize the Pull Request workflow:
 
 ```mermaid
 flowchart TD
-    A[Start: Create Feature Branch] --> B[Make Code Changes]
-    B --> C[Test Locally]
-    C --> D[Push to Remote Branch]
-    D --> E[Open Pull Request]
-    E --> F[Write Clear Description]
-    F --> G[Run CI/CD Checks]
-    G --> H[Reviewer Assigned]
-    H --> I[Code Review: Comments & Suggestions]
-    I --> J[Make Changes Based on Feedback]
-    J --> K[Final Approval]
-    K --> L[Merge to Main Branch]
-    L --> M[Delete Feature Branch]
-    M --> N[Deploy if Needed]
+    A[Create Feature Branch] --> B[Make & Test Changes]
+    B --> C[Push to Remote Branch]
+    C --> D[Open Pull Request]
+    D --> E[Write Clear Title & Description]
+    E --> F[Add Screenshots or Context (if needed)]
+    F --> G[Submit for Review]
 ```
 
 ## 📚 Resources
-```
-```
