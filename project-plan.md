@@ -12,3 +12,8 @@ This document is a project plan for the `best-practices` repository. The goal is
 - [x] Setup the GitHub Repository
 - [ ] Write about Pull Requests best practices
 - [ ] Write about Code Reviews best practices
+
+### **Clément**:
+- [ ] Write about SCRUM estimation best practices
+- [ ] Create Pull Requests schema
+- [ ] Create Code Reviews schema
