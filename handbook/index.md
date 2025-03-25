@@ -14,11 +14,11 @@ This document is a project plan for the `qa-handbook` repository. The goal is to
 
 #### **Paul**:
 - [x] Setup the GitHub Repository
-- [ ] Write about Pull Requests best practices
+- [x] Write about Pull Requests best practices
 - [ ] Write about Code Reviews best practices
 
 #### **Clément**:
-- [ ] Write about SCRUM estimation best practices
+- [x] Write about SCRUM estimation best practices
 - [ ] Create Pull Requests schema
 - [ ] Create Code Reviews schema
 
