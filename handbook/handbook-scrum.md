@@ -21,3 +21,13 @@ A good practice to estimate well a task is to imply every developer, because eac
 ## Conclusion
 
 In conclusion, although the estimation of software development tasks is rarely accurate, the use of proven methods, team collaboration, and analysis of past errors can be used to gradually improve the accuracy of forecasts and optimize software project management.
+
+
+### Sources
+
+[Software Estimation: Demystifying the Black Art – Steve McConnell](https://www.stevemcconnell.com/ieeesoftware/bkste.htm)
+
+[Agile Estimating and Planning – Mike Cohn](https://www.mountaingoatsoftware.com/books/agile-estimating-and-planning)
+[Scrum.org – Estimation in Agile](https://www.scrum.org/resources/blog/agile-estimation-guide)
+[Atlassian – Jira Estimation Best Practices](https://www.atlassian.com/agile/project-management/estimation)
+[Martin Fowler – Estimation is Not a Number](https://martinfowler.com/bliki/Estimation.html)
