@@ -73,16 +73,6 @@ This reduces back-and-forth and speeds up the review process.
 - When something might be temporary or experimental
 - When you're unsure about a decision and want feedback
 
-```diff
-// ✅ Comment in the PR:
-"Note: I added this regex here instead of using the validation library because we had a version conflict."
-
-// ✅ Inline comment in code:
-```ts
-// Using a custom value here because the library doesn't support the latest version of React
-const customValue = 'custom';
-```
-
 ---
 
 ### **4. Make it visual**
