@@ -22,8 +22,15 @@ The goal is to create a set of best practices for software development for the f
 - [x] Setup the GitHub Repository
 - [x] Write about Pull Requests best practices
 - [ ] Write about Code Reviews best practices
+- [x] Organise the post-mortem
 
 #### **Clément**:
 - [x] Write about SCRUM estimation best practices
 - [ ] Create Pull Requests schema
 - [ ] Create Code Reviews schema
+- [ ] Participate in the post-mortem
+
+## Post-mortem
+
+We are satisfied with how the handbook turned out. However, there are some things we could have done differently:
+- Streamline the tasks between group members using **GitHub Issues**.
